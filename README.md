@@ -1,5 +1,24 @@
 # Algoriza-To-do-App
 Flutter project two (To do)
+
+
+video
+
+
+
+
+https://user-images.githubusercontent.com/109302512/181423571-7bdaaba5-67d6-4101-889e-7ad94980439d.mp4
+
+
+
+
+
+
+
+
+
+
+
 Screenshots
 
 
